@@ -3,7 +3,7 @@
 
 # Awesome Books Pair programming!
 
-> This is a project create by me and @NatiDeme!
+> This is a project create by @CrystallineButterfly and @Kimutai01
 
 
 ## Built With
@@ -34,15 +34,13 @@ Either that or a fork!
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/NatiDeme)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/CrystallineButterfly)
 - Twitter: [@twitterhandle](https://twitter.com/CrystAlline_k42)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Kell_Mcwatt)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Kimutai01)
 
 ## 🤝 Contributing
 
