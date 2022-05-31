@@ -34,15 +34,13 @@ Either that or a fork!
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/NatiDeme)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/CrystallineButterfly)
 - Twitter: [@twitterhandle](https://twitter.com/CrystAlline_k42)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Kell_Mcwatt)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Kimutai01)
 
 ## 🤝 Contributing
 
